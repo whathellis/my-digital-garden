@@ -1,5 +1,5 @@
 ---
-{"time":0,"dg-publish":true,"permalink":"/04-projects/to-do/monster-challenge/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:16.942+10:00","updated":"2025-01-31T13:49:07.915+10:00"}
+{"dg-publish":true,"permalink":"/04-projects/to-do/monster-challenge/","noteIcon":"","created":"2025-01-21T01:20:16.942+10:00","updated":"2025-01-31T13:49:07.915+10:00"}
 ---
 
 https://www.therookies.co/contests/groups/monster-challenge

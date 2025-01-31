@@ -1,5 +1,5 @@
 ---
-{"tags":["project"],"share":true,"done":true,"date":"2024-06-11","time":33,"deadline":"2024-07-24","cover":"[[Screenshot 2024-09-15 18.22.09 3000×2000_1_(1).jpg.jpg]]","dg-publish":true,"permalink":"/04-projects/done/womp-3-d/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:16.894+10:00","updated":"2025-01-31T13:49:07.861+10:00"}
+{"dg-publish":true,"permalink":"/04-projects/done/womp-3-d/","tags":["project"],"noteIcon":"","created":"2025-01-21T01:20:16.894+10:00","updated":"2025-01-31T13:49:07.861+10:00"}
 ---
 
 thumbnails:: ![Screenshot 2024-09-15 18.22.09 3000×2000_1_(1).jpg.jpg](/img/user/99/Embeds/Screenshot%202024-09-15%2018.22.09%203000%C3%972000_1_(1).jpg.jpg)

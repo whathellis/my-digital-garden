@@ -1,5 +1,5 @@
 ---
-{"tags":["project"],"share":true,"done":true,"date":"2024-07-25","time":50,"deadline":"2024-08-17","cover":"[[Screenshot 2024-09-15 18.25.04 2000×1500_26.jpg.jpg]]","dg-publish":true,"permalink":"/04-projects/portfolio/talking-head/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:16.923+10:00","updated":"2025-01-31T13:49:07.878+10:00"}
+{"dg-publish":true,"permalink":"/04-projects/portfolio/talking-head/","tags":["project"],"noteIcon":"","created":"2025-01-21T01:20:16.923+10:00","updated":"2025-01-31T13:49:07.878+10:00"}
 ---
 
 thumbnails:: ![Screenshot 2024-09-15 18.25.04 2000×1500_26.jpg.jpg](/img/user/99/Embeds/Screenshot%202024-09-15%2018.25.04%202000%C3%971500_26.jpg.jpg)

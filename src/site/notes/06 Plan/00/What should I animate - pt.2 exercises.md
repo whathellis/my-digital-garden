@@ -1,5 +1,5 @@
 ---
-{"URL":"https://spungella.blogspot.com/2008/11/what-should-i-animate-pt2-exercises.html","thumbnail":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn5uBcrD5JbjpTufjaS5f4RxMdtGQkk06E9fC17Mr83c26afpbsuU6adnP3-bd3o90tBZnzzPpjU92gooc8KQQPUcbrFewzE8b1vIjeMxFUBnARM2QJ83Z_9_kByGlymc3iK5_xlvhtDBV/w1200-h630-p-k-no-nu/testmodel.jpg","site":"[[]]","date":"2024-08-15T17:44:30","duration":3,"topics":["[[Animation exercises]]"],"done":false,"cover":null,"dg-publish":true,"permalink":"/06-plan/00/what-should-i-animate-pt-2-exercises/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:17.253+10:00","updated":"2025-01-21T16:22:09.335+10:00"}
+{"dg-publish":true,"permalink":"/06-plan/00/what-should-i-animate-pt-2-exercises/","noteIcon":"","created":"2025-01-21T01:20:17.253+10:00","updated":"2025-01-21T16:22:09.335+10:00"}
 ---
 
 [[Read it Later\|Read it Later]] [[Article\|Article]] 

@@ -1,5 +1,5 @@
 ---
-{"share":true,"done":true,"date":"2024-09-30","URL":"https://www.therookies.co/contests/groups/meet-mat-3","site":"[[The Rookies]]","cover":"[[screencapture-therookies (13).jpg]]","dg-publish":true,"permalink":"/04-projects/done/meet-mat-4/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:16.888+10:00","updated":"2025-01-31T13:49:07.855+10:00"}
+{"dg-publish":true,"permalink":"/04-projects/done/meet-mat-4/","noteIcon":"","created":"2025-01-21T01:20:16.888+10:00","updated":"2025-01-31T13:49:07.855+10:00"}
 ---
 
 thumbnails:: ![screencapture-therookies (13).jpg](/img/user/99/Embeds/screencapture-therookies%20(13).jpg)

@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["daily","Wednesday","page-purple"],"dg-publish":true,"permalink":"/06-plan/00/3-d-animation-degree/","contentClasses":"daily Wednesday page-purple","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:17.140+10:00","updated":"2025-01-21T16:22:08.231+10:00"}
+{"dg-publish":true,"permalink":"/06-plan/00/3-d-animation-degree/","contentClasses":"daily Wednesday page-purple","noteIcon":"","created":"2025-01-21T01:20:17.140+10:00","updated":"2025-01-21T16:22:08.231+10:00"}
 ---
 
 # 3D Animation Degree

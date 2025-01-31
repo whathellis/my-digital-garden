@@ -1,5 +1,5 @@
 ---
-{"kanban-plugin":"board","done":false,"cssclasses":["daily","page-light-cyan"],"dg-publish":true,"permalink":"/06-plan/04/to-read/","contentClasses":"daily page-light-cyan","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:17.325+10:00","updated":"2025-01-21T16:22:09.520+10:00"}
+{"dg-publish":true,"permalink":"/06-plan/04/to-read/","contentClasses":"daily page-light-cyan","noteIcon":"","created":"2025-01-21T01:20:17.325+10:00","updated":"2025-01-21T16:22:09.520+10:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["daily","page-light-blue","Tuesday"],"dg-publish":true,"permalink":"/06-plan/00/all-3-d-courses/","contentClasses":"daily page-light-blue Tuesday","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:17.212+10:00","updated":"2025-01-21T16:22:08.315+10:00"}
+{"dg-publish":true,"permalink":"/06-plan/00/all-3-d-courses/","contentClasses":"daily page-light-blue Tuesday","noteIcon":"","created":"2025-01-21T01:20:17.212+10:00","updated":"2025-01-21T16:22:08.315+10:00"}
 ---
 
 # All 3D modeling courses

@@ -1,5 +1,5 @@
 ---
-{"URL":"https://www.therookies.co/about","thumbnail":null,"site":"[[The Rookies]]","cover":"[[screencapture-therookies (13).jpg]]","dg-publish":true,"permalink":"/06-plan/00/the-rookies/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:17.247+10:00","updated":"2025-01-21T16:22:09.329+10:00"}
+{"dg-publish":true,"permalink":"/06-plan/00/the-rookies/","noteIcon":"","created":"2025-01-21T01:20:17.247+10:00","updated":"2025-01-21T16:22:09.329+10:00"}
 ---
 
 # The first step to your future creative career

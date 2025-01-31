@@ -1,5 +1,5 @@
 ---
-{"tags":["project"],"share":true,"done":true,"date":"2024-08-25","Deadline":"2024-09-07","time":23,"dg-publish":true,"permalink":"/04-projects/done/maya-statue/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:16.885+10:00","updated":"2025-01-31T13:49:07.847+10:00"}
+{"dg-publish":true,"permalink":"/04-projects/done/maya-statue/","tags":["project"],"noteIcon":"","created":"2025-01-21T01:20:16.885+10:00","updated":"2025-01-31T13:49:07.847+10:00"}
 ---
 
 

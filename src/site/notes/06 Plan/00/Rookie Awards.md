@@ -1,5 +1,5 @@
 ---
-{"URL":"https://www.therookies.co/contests/groups/rookie-awards-2024/rules","thumbnail":null,"site":"[[The Rookies]]","cover":"[[Screenshot 2024-09-06 00.28.13 Rookie_Awards_-_Mashroomash_-_Obsidian_v1.5.12.jpg]]","dg-publish":true,"permalink":"/06-plan/00/rookie-awards/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:17.231+10:00","updated":"2025-01-21T16:22:09.310+10:00"}
+{"dg-publish":true,"permalink":"/06-plan/00/rookie-awards/","noteIcon":"","created":"2025-01-21T01:20:17.231+10:00","updated":"2025-01-21T16:22:09.310+10:00"}
 ---
 
 # Rookie Awards 2024

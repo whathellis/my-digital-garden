@@ -1,5 +1,5 @@
 ---
-{"tags":["goal"],"date":null,"deadline":"2025-03-30","done":false,"cssclasses":["page-cyan","Wednesday","daily"],"dg-publish":true,"permalink":"/06-plan/05/00/sculpting/","contentClasses":"page-cyan Wednesday daily","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:17.355+10:00","updated":"2025-01-28T04:27:39.559+10:00"}
+{"dg-publish":true,"permalink":"/06-plan/05/00/sculpting/","contentClasses":"page-cyan Wednesday daily","tags":["goal"],"noteIcon":"","created":"2025-01-21T01:20:17.355+10:00","updated":"2025-01-28T04:27:39.559+10:00"}
 ---
 
 [[06 Plan/01/2024\|2024]]

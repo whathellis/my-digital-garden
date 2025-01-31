@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["daily","page-purple","Wednesday"],"dg-publish":true,"permalink":"/06-plan/00/3-d-animator-specialization/","contentClasses":"daily page-purple Wednesday","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:17.167+10:00","updated":"2025-01-21T16:22:08.253+10:00"}
+{"dg-publish":true,"permalink":"/06-plan/00/3-d-animator-specialization/","contentClasses":"daily page-purple Wednesday","noteIcon":"","created":"2025-01-21T01:20:17.167+10:00","updated":"2025-01-21T16:22:08.253+10:00"}
 ---
 
 # 3D Animator Specialization

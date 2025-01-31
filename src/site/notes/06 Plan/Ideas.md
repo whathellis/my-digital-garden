@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-plan/ideas/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:17.134+10:00","updated":"2025-01-21T16:22:09.697+10:00"}
+{"dg-publish":true,"permalink":"/06-plan/ideas/","noteIcon":"","created":"2025-01-21T01:20:17.134+10:00","updated":"2025-01-21T16:22:09.697+10:00"}
 ---
 
 - [ ] plant house - a complex scene

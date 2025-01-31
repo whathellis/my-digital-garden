@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-plan/00/3-d-modeling-essentials/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:17.200+10:00","updated":"2025-01-21T16:22:08.280+10:00"}
+{"dg-publish":true,"permalink":"/06-plan/00/3-d-modeling-essentials/","noteIcon":"","created":"2025-01-21T01:20:17.200+10:00","updated":"2025-01-21T16:22:08.280+10:00"}
 ---
 
 - [Blog](https://www.cgspectrum.com/blog)

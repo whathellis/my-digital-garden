@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["daily","page-white","Sunday"],"dg-publish":true,"permalink":"/99/index/alphabetical-note-index/","contentClasses":"daily page-white Sunday","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-28T03:27:20.847+10:00","updated":"2025-01-31T13:50:19.347+10:00"}
+{"dg-publish":true,"permalink":"/99/index/alphabetical-note-index/","contentClasses":"daily page-white Sunday","noteIcon":"","created":"2025-01-28T03:27:20.847+10:00","updated":"2025-01-31T13:50:19.347+10:00"}
 ---
 
 

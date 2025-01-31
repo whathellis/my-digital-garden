@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["page-cyan","daily","Wednesday"],"tags":["goal"],"date":null,"deadline":"2025-03-30","done":false,"dg-publish":true,"permalink":"/06-plan/04/contests/","contentClasses":"page-cyan daily Wednesday","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:17.329+10:00","updated":"2025-01-21T16:22:09.512+10:00"}
+{"dg-publish":true,"permalink":"/06-plan/04/contests/","contentClasses":"page-cyan daily Wednesday","tags":["goal"],"noteIcon":"","created":"2025-01-21T01:20:17.329+10:00","updated":"2025-01-21T16:22:09.512+10:00"}
 ---
 
 [[06 Plan/01/2024\|2024]]

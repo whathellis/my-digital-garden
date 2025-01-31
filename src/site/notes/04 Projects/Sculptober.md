@@ -1,5 +1,5 @@
 ---
-{"URL":"https://www.creativebloq.com/art/imaginefx-art-challenge-5-starts-today?utm_campaign=linkinbio&utm_medium=referral&utm_source=later-linkinbio","thumbnail":"https://cdn.mos.cms.futurecdn.net/9BZTb48Y6wVurwPuHzBNtF-1200-80.jpg","cover":"[[UD_inktober_3447644172498823880_1498984514_9_13_2024.jpg]]","share":true,"tags":["project"],"date":"","Deadline":"2024-10-31","done":false,"time":0,"cssclasses":["daily","Wednesday","page-purple","card"],"dg-publish":true,"permalink":"/04-projects/sculptober/","contentClasses":"daily Wednesday page-purple card","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:16.849+10:00","updated":"2025-01-31T13:49:07.896+10:00"}
+{"dg-publish":true,"permalink":"/04-projects/sculptober/","contentClasses":"daily Wednesday page-purple card","tags":["project"],"noteIcon":"","created":"2025-01-21T01:20:16.849+10:00","updated":"2025-01-31T13:49:07.896+10:00"}
 ---
 
 `````col

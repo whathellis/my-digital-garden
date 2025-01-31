@@ -1,5 +1,5 @@
 ---
-{"tags":["project"],"share":true,"done":true,"date":"2024-09-30","Deadline":"2024-10-20","URL":"https://www.therookies.co/contests/groups/meet-mat-3","time":73,"cover":"[[Screenshot 2024-11-12 00.14.55 2850×2160_Meet_Meat_10.23_010.jpg.jpg]]","dg-publish":true,"permalink":"/04-projects/portfolio/meet-meat/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:16.915+10:00","updated":"2025-01-31T13:49:07.890+10:00"}
+{"dg-publish":true,"permalink":"/04-projects/portfolio/meet-meat/","tags":["project"],"noteIcon":"","created":"2025-01-21T01:20:16.915+10:00","updated":"2025-01-31T13:49:07.890+10:00"}
 ---
 
 thumbnails::  ![Screenshot 2024-11-12 00.14.55 2850×2160_Meet_Meat_10.23_010.jpg.jpg](/img/user/99/Embeds/Screenshot%202024-11-12%2000.14.55%202850%C3%972160_Meet_Meat_10.23_010.jpg.jpg)

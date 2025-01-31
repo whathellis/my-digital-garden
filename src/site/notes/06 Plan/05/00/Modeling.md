@@ -1,5 +1,5 @@
 ---
-{"tags":["goal"],"date":null,"deadline":"2025-03-30","done":false,"cssclasses":["Wednesday","page-cyan","daily"],"entries":[],"dg-publish":true,"permalink":"/06-plan/05/00/modeling/","contentClasses":"Wednesday page-cyan daily","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:17.351+10:00","updated":"2025-01-21T16:22:09.549+10:00"}
+{"dg-publish":true,"permalink":"/06-plan/05/00/modeling/","contentClasses":"Wednesday page-cyan daily","tags":["goal"],"noteIcon":"","created":"2025-01-21T01:20:17.351+10:00","updated":"2025-01-21T16:22:09.549+10:00"}
 ---
 
 [[06 Plan/01/2024\|2024]]

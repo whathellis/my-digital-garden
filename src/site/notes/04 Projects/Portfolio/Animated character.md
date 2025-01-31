@@ -1,5 +1,5 @@
 ---
-{"tags":["project","playlist"],"share":true,"done":true,"channel":"[[CrossMind Studio]]","date":"2024-05-12","time":71,"deadline":"2024-05-27","cover":"[[Screenshot 2024-09-15 18.24.03 2000×2000_9.jpg.jpg]]","dg-publish":true,"permalink":"/04-projects/portfolio/animated-character/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:16.900+10:00","updated":"2025-01-31T13:49:07.872+10:00"}
+{"dg-publish":true,"permalink":"/04-projects/portfolio/animated-character/","tags":["project","playlist"],"noteIcon":"","created":"2025-01-21T01:20:16.900+10:00","updated":"2025-01-31T13:49:07.872+10:00"}
 ---
 
 thumbnails:: ![Screenshot 2024-09-15 18.24.03 2000×2000_9.jpg.jpg](/img/user/99/Embeds/Screenshot%202024-09-15%2018.24.03%202000%C3%972000_9.jpg.jpg)

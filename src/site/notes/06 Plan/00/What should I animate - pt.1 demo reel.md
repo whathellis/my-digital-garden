@@ -1,5 +1,5 @@
 ---
-{"URL":"https://spungella.blogspot.com/2008/09/what-should-i-animate_24.html","thumbnail":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQv7O9QuKRmgzLIWuz1m6Lh64wfF3X5X1nRFeeGC7hBWRNo0eyOZNe0ySyE52e2qsAH0PHJ0F6FaG_hpq5bSoJY51-jc9vAieGpBuJ90rUCjWLTJNkreYnTV6lNf860uf5MkBaPXPNINAg/w1200-h630-p-k-no-nu/ojsimpson.jpg","site":"[[]]","date":"2024-08-15T17:37:27","duration":9,"topics":["[[Animation exercises]]"],"done":false,"cover":null,"dg-publish":true,"permalink":"/06-plan/00/what-should-i-animate-pt-1-demo-reel/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:17.250+10:00","updated":"2025-01-21T16:22:09.324+10:00"}
+{"dg-publish":true,"permalink":"/06-plan/00/what-should-i-animate-pt-1-demo-reel/","noteIcon":"","created":"2025-01-21T01:20:17.250+10:00","updated":"2025-01-21T16:22:09.324+10:00"}
 ---
 
 [[Read it Later\|Read it Later]] [[Article\|Article]] 

@@ -1,5 +1,5 @@
 ---
-{"tags":["project"],"share":true,"done":true,"date":"2024-08-05","time":38,"deadline":"2024-09-02","cover":"[[Screenshot 2024-09-15 18.25.50 2880×1620_18.jpg.jpg]]","dg-publish":true,"permalink":"/04-projects/done/blender-donut/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:16.855+10:00","updated":"2025-01-31T13:49:07.836+10:00"}
+{"dg-publish":true,"permalink":"/04-projects/done/blender-donut/","tags":["project"],"noteIcon":"","created":"2025-01-21T01:20:16.855+10:00","updated":"2025-01-31T13:49:07.836+10:00"}
 ---
 
 thumbnails:: ![Screenshot 2024-09-15 18.25.50 2880×1620_18.jpg.jpg](/img/user/99/Embeds/Screenshot%202024-09-15%2018.25.50%202880%C3%971620_18.jpg.jpg)

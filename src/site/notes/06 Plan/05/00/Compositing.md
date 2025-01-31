@@ -1,5 +1,5 @@
 ---
-{"tags":["goal"],"date":"2024-08-27","deadline":null,"done":false,"cssclasses":["page-cyan","daily","Wednesday"],"entries":[],"dg-publish":true,"permalink":"/06-plan/05/00/compositing/","contentClasses":"page-cyan daily Wednesday","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:17.348+10:00","updated":"2025-01-26T05:41:45.308+10:00"}
+{"dg-publish":true,"permalink":"/06-plan/05/00/compositing/","contentClasses":"page-cyan daily Wednesday","tags":["goal"],"noteIcon":"","created":"2025-01-21T01:20:17.348+10:00","updated":"2025-01-26T05:41:45.308+10:00"}
 ---
 
 [[06 Plan/01/2024\|2024]]

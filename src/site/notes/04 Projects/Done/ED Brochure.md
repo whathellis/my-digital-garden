@@ -1,5 +1,5 @@
 ---
-{"tags":["project"],"cssclasses":["daily","Thursday","page-light-blue","wide"],"cover":null,"share":true,"date":"2024-11-27","deadline":"2024-12-02","done":true,"dg-publish":true,"permalink":"/04-projects/done/ed-brochure/","contentClasses":"daily Thursday page-light-blue wide","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:16.879+10:00","updated":"2025-01-31T13:49:07.842+10:00"}
+{"dg-publish":true,"permalink":"/04-projects/done/ed-brochure/","contentClasses":"daily Thursday page-light-blue wide","tags":["project"],"noteIcon":"","created":"2025-01-21T01:20:16.879+10:00","updated":"2025-01-31T13:49:07.842+10:00"}
 ---
 
 

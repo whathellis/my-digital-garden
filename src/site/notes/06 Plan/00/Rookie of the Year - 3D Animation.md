@@ -1,5 +1,5 @@
 ---
-{"URL":"https://www.therookies.co/contests/393","thumbnail":null,"site":"[[The Rookies]]","cover":"[[Screenshot 2024-09-06 00.28.13 Rookie_Awards_-_Mashroomash_-_Obsidian_v1.5.12.jpg]]","dg-publish":true,"permalink":"/06-plan/00/rookie-of-the-year-3-d-animation/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:17.243+10:00","updated":"2025-01-21T16:22:09.316+10:00"}
+{"dg-publish":true,"permalink":"/06-plan/00/rookie-of-the-year-3-d-animation/","noteIcon":"","created":"2025-01-21T01:20:17.243+10:00","updated":"2025-01-21T16:22:09.316+10:00"}
 ---
 
 # Rookie of the Year | 3D Animation

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-plan/00/animation-exercises/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:17.215+10:00","updated":"2025-01-21T16:22:08.525+10:00"}
+{"dg-publish":true,"permalink":"/06-plan/00/animation-exercises/","noteIcon":"","created":"2025-01-21T01:20:17.215+10:00","updated":"2025-01-21T16:22:08.525+10:00"}
 ---
 
 #### Simple Tests – Inanimate Objects

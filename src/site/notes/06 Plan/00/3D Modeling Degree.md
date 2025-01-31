@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["daily","Wednesday","page-cyan"],"dg-publish":true,"permalink":"/06-plan/00/3-d-modeling-degree/","contentClasses":"daily Wednesday page-cyan","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:17.189+10:00","updated":"2025-01-21T16:22:08.270+10:00"}
+{"dg-publish":true,"permalink":"/06-plan/00/3-d-modeling-degree/","contentClasses":"daily Wednesday page-cyan","noteIcon":"","created":"2025-01-21T01:20:17.189+10:00","updated":"2025-01-21T16:22:08.270+10:00"}
 ---
 
 # 3D Modeling Degree

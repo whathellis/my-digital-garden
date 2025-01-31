@@ -1,5 +1,5 @@
 ---
-{"tags":[],"date":null,"deadline":null,"done":false,"cssclasses":["page-purple","daily","Wednesday"],"time":null,"dg-publish":true,"permalink":"/06-plan/06/project/","contentClasses":"page-purple daily Wednesday","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:29:03.086+10:00","updated":"2025-01-21T16:22:09.684+10:00"}
+{"dg-publish":true,"permalink":"/06-plan/06/project/","contentClasses":"page-purple daily Wednesday","noteIcon":"","created":"2025-01-21T01:29:03.086+10:00","updated":"2025-01-21T16:22:09.684+10:00"}
 ---
 
 - [ ] timelapse #todo

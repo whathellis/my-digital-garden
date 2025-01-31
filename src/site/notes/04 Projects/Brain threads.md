@@ -1,5 +1,5 @@
 ---
-{"tags":["project"],"share":true,"done":false,"date":"2024-09-28","deadline":"2024-10-31","time":86,"cssclasses":["page-purple","daily","Wednesday"],"cover":null,"dg-publish":true,"permalink":"/04-projects/brain-threads/","contentClasses":"page-purple daily Wednesday","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:16.838+10:00","updated":"2025-01-31T13:49:07.807+10:00"}
+{"dg-publish":true,"permalink":"/04-projects/brain-threads/","contentClasses":"page-purple daily Wednesday","tags":["project"],"noteIcon":"","created":"2025-01-21T01:20:16.838+10:00","updated":"2025-01-31T13:49:07.807+10:00"}
 ---
 
 [[04 Projects/Done/Character Design Contest\|Character Design Contest]]

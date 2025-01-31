@@ -1,5 +1,5 @@
 ---
-{"tags":["project"],"share":true,"done":true,"date":"2024-09-28","Deadline":"2024-10-31","URL":"https://www.renderhub.com/forum/8449/brain-threads","time":86,"cover":"[[Screenshot 2024-11-12 00.18.15 3000×3232_030.2.jpg.jpg]]","dg-publish":true,"permalink":"/04-projects/done/character-design-contest/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-21T01:20:16.859+10:00","updated":"2025-01-31T13:49:07.867+10:00"}
+{"dg-publish":true,"permalink":"/04-projects/done/character-design-contest/","tags":["project"],"noteIcon":"","created":"2025-01-21T01:20:16.859+10:00","updated":"2025-01-31T13:49:07.867+10:00"}
 ---
 
 thumbnails:: ![Screenshot 2024-11-12 00.18.15 3000×3232_030.2.jpg.jpg](/img/user/99/Embeds/Screenshot%202024-11-12%2000.18.15%203000%C3%973232_030.2.jpg.jpg)
