@@ -12,5 +12,12 @@ See the README in the plugin repo for information on how to set it up.
 - Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
   - **Analytics:** https://github.com/oleeskild/obsidian-digital-garden/discussions/195
   - **Comments:** https://giscus.app/
+  ```css
+  body {
+   display: flex;
+   margin: auto;
+   max-width: 1500px;
+     }
+  ```
   
 
