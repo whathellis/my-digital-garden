@@ -1,6 +1,6 @@
 body {
    display: flex;
-   // margin: auto;
+   margin: auto;
    max-width: 1500px;
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
@@ -13,18 +13,4 @@ body {
     //  h1 {
     //   color: black;
     //  }
-}
-// .footer {
-  // display: flex;
-  // margin: auto;
-  // max-width: 800px;
-}
-/* or... */
-#comments {
-  /* ... */
-}
-/* or... */
-#comments::part(iframe) {
-  /* ... */
-}
-/* etc. */
+
