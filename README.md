@@ -1,5 +1,5 @@
 https://my-digital-mashrooms-garden.vercel.app/
-###### Analyticas 
+###### Analytics 
 https://github.com/oleeskild/obsidian-digital-garden/discussions/195
 
 # Digital Obsidian Garden
