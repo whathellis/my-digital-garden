@@ -15,7 +15,7 @@ See the README in the plugin repo for information on how to set it up.
 bc I need them to remember wth to do
 - **Analytics:** https://github.com/oleeskild/obsidian-digital-garden/discussions/195
 - **Comments:** https://giscus.app/
-### To make comments look better
+### To make comments fit the page if they don't
 - Add `<div class="comments">` before and `</div>` after your code (here `src/site/_includes/components/user/notes/footer/giscus.njk`) from the Giscus
 
 ![Screenshot 2025-02-01 18 23 01 my-digital-gardensrcsite_includescomponentsusernot](https://github.com/user-attachments/assets/04840399-2489-4aef-8ca3-2842ff81cd69)
