@@ -19,7 +19,7 @@ bc I need them to remember wth to do
 - Add `<div class="comments">` before and `</div>` after your code (here `src/site/_includes/components/user/notes/footer/giscus.njk`) from the Giscus
 
 ![Screenshot 2025-02-01 18 23 01 my-digital-gardensrcsite_includescomponentsusernot](https://github.com/user-attachments/assets/04840399-2489-4aef-8ca3-2842ff81cd69)
-  - Then add this code to the existing custom style file `src/site/styles/custom-style.scss`
+  - Than add this code to the existing custom style file `src/site/styles/custom-style.scss`
       - ***max-width*** depends on your preferences/monitor
     ```css
     .comments {
