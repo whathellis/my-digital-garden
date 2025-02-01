@@ -11,7 +11,8 @@ See the README in the plugin repo for information on how to set it up.
 ## Docs
 - Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
 
-## Notes
+#### Notes
+bc I need them to remember wth to do
 - **Analytics:** https://github.com/oleeskild/obsidian-digital-garden/discussions/195
 - **Comments:** https://giscus.app/
 ### To make comments look better
